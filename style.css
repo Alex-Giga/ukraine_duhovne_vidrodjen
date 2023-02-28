@@ -1,0 +1,66 @@
+*{
+    margin: 10 10 10 10;
+    padding: 0;
+}
+
+html,
+body{
+    color:  rgb(235, 247, 132);
+    
+    padding-left: 35px;
+    padding-top: 20px;
+}
+
+body{
+    font-family: sans-selif;
+    
+}
+
+.wrapper{
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.container{
+    max-width: auto;
+    
+
+}
+
+.header{
+    height: 85px;
+    padding: 25 25 25 25
+    font-size: 18px;
+    background-color: rgb(41, 247, 22);
+    
+}
+.main{
+    background-color: azure;
+    
+}
+
+@media (max-width: 1920px){
+    
+}
+
+
+@media (max-width: 1280px){
+
+}
+
+
+@media (max-width: 760px){
+    body{
+        
+        
+        }
+    }
+}
+
+@media (max-width: 420px){
+    
+}
+
+
+
